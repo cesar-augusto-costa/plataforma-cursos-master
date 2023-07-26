@@ -8,9 +8,3 @@
 - Javascript;
 - Github;
 - A biblioteca "animate.css";
-
-## Contato:
-- Link: https://albertomoiseisdev.com.br/
-</br>
-
-![Portfólio](/images/portfólio.png)
